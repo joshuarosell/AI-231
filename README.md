@@ -1,2 +1,2 @@
 # AI-231
-MLOps exercises, data, and other files.
+MLOps machine exercises, data, and other files.
